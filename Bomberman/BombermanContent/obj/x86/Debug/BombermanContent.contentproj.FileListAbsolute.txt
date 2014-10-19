@@ -1,0 +1,2 @@
+E:\Users\Sergey\Documents\Documents\Университет\C#\Bomberman\Bomberman\BombermanContent\obj\x86\Debug\BombermanContent.contentprojResolveAssemblyReference.cache
+E:\Users\Sergey\Documents\Documents\Университет\C#\Bomberman — копия (2)\Bomberman\BombermanContent\obj\x86\Debug\BombermanContent.contentprojResolveAssemblyReference.cache
